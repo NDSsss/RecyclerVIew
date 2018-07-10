@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecyclerVIew@</string>
+    <string name="HEADER">Header</string>
+    <string name="DESC">Description</string>
+    <string name="TEXT">Text</string>
+    <string name="button_add">Add</string>
+    <string name="button_cancel">Cancel</string>
+</resources>
